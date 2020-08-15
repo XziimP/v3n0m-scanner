@@ -6,11 +6,11 @@ I take no responsibility for the actions of others who misuse this app.
 
 ## How To Install For Linux
 
-download and extract here
-open in terminal
-sudo su
-sudo pip3 install -r requirements.txt
-python3 setup.py --user
-python3 v3n0m.py
+* download and extract here
+* open in terminal
+* sudo su
+* sudo pip3 install -r requirements.txt
+* python3 setup.py --user
+* python3 v3n0m.py
 
-follow directions when prompted.
+* Follow directions when prompted.
